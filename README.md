@@ -2,6 +2,7 @@
 [![npm version](https://badge.fury.io/js/homebridge-raspberrypi-temperature.svg)](https://badge.fury.io/js/homebridge-raspberrypi-temperature)
 
 a homebridge plugin that get RaspberryPi CPU temperature.
+
 temperature measurement is automatically set to celsius
 
 ![](https://raw.githubusercontent.com/YinHangCode/homebridge-raspberrypi-temperature/master/images/RaspberryPi3B.jpg)
