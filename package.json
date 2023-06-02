@@ -6,11 +6,10 @@
     "homebridge-plugin",
     "raspberrypi",
     "raspberry-pi",
-    "temperature",
-    "cpu"
+    "temperature"
   ],
-  "homepage": "https://github.com/NijremNL/homebridge-raspberrypi-temperature",
-  "author": "NijremNL",
+  "homepage": "https://github.com/YinHangCode/homebridge-raspberrypi-temperature",
+  "author": "hang.yin",
   "contributors": [{
     "name": "Oleksandr Boichenko",
     "email": "banzalik@gmail.com",
@@ -18,10 +17,7 @@
   }, {
     "name": "simplenotezy",
     "url": "https://github.com/simplenotezy"
-  },  {
-    "name": "Merijn"
-    "url": "https://github.com/NijremNL"
-]
+  }],
   "repository": {
     "type": "git",
     "url": "git://github.com/YinHangCode/homebridge-raspberrypi-temperature"
