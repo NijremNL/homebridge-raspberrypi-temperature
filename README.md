@@ -13,23 +13,8 @@ simple configuration
     "name": "RaspberryPi CPU Temperature"
 }]
 ```
-set temperature measurement to celsius
-```
-"accessories": [{
-    "accessory": "RaspberryPiTemperature",
-    "name": "RaspberryPi CPU Temperature",
-    "temperatureMeasurement": "celsius"
-}]
-```
-if you want temperature value timing update, you can set 'updateInterval' attribute(unit: milliseconds).   
-```
-"accessories": [{
-    "accessory": "RaspberryPiTemperature",
-    "name": "RaspberryPi CPU Temperature",
-    "temperatureMeasurement": "celsius",
-    "updateInterval": 1000
-}]
-```
+temperature measurement is automatically set to celsius
+
 for Orange PI
 ```
 "accessories": [{
