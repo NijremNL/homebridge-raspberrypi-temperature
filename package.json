@@ -21,7 +21,7 @@
   },  {
     "name": "Merijn"
     "url": "https://github.com/NijremNL"
-],
+]
   "repository": {
     "type": "git",
     "url": "git://github.com/YinHangCode/homebridge-raspberrypi-temperature"
