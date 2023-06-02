@@ -6,7 +6,8 @@
     "homebridge-plugin",
     "raspberrypi",
     "raspberry-pi",
-    "temperature"
+    "temperature",
+    "cpu"
   ],
   "homepage": "https://github.com/YinHangCode/homebridge-raspberrypi-temperature",
   "author": "hang.yin",
