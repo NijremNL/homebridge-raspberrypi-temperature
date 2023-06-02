@@ -9,8 +9,8 @@
     "temperature",
     "cpu"
   ],
-  "homepage": "https://github.com/YinHangCode/homebridge-raspberrypi-temperature",
-  "author": "hang.yin",
+  "homepage": "https://github.com/NijremNL/homebridge-raspberrypi-temperature",
+  "author": "NijremNL",
   "contributors": [{
     "name": "Oleksandr Boichenko",
     "email": "banzalik@gmail.com",
@@ -18,7 +18,10 @@
   }, {
     "name": "simplenotezy",
     "url": "https://github.com/simplenotezy"
-  }],
+  },  {
+    "name": "Merijn"
+    "url": "https://github.com/NijremNL"
+],
   "repository": {
     "type": "git",
     "url": "git://github.com/YinHangCode/homebridge-raspberrypi-temperature"
